@@ -19,7 +19,7 @@
 
 | Light Mode | Dark Mode |
 |---|---|
-| ![Light Mode](screenshots/light.png.png) | ![Dark Mode](screenshots/dark.png.png) |
+| ![Light Mode](screenshots/light.png) | ![Dark Mode](screenshots/dark.png) |
 
 ---
 

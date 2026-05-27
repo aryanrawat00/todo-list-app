@@ -15,3 +15,6 @@ desktop.ini
 # Temp files
 *.tmp
 *.temp
+
+.dark.png.png
+.light.png.png

@@ -15,11 +15,11 @@
 
 ---
 
-## 📸 Screenshots
+## 📸 Screenshot
 
 | Light Mode | Dark Mode |
 |---|---|
-| ![Light Mode](screenshots/light.png) | ![Dark Mode](screenshots/dark.png) |
+| ![Light Mode](screenshot/light.png) | ![Dark Mode](screenshot/dark.png) |
 
 ---
 

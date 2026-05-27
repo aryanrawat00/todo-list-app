@@ -11,7 +11,7 @@
 
 ## 🔗 Live Demo
 
-👉 **[Click here to view the live demo](https://aryanrawat00.github.io/todo-list-app/)**
+🔗 Live Demo: https://aryanrawat00.github.io/todo-list-app/
 
 ---
 
@@ -19,7 +19,7 @@
 
 | Light Mode | Dark Mode |
 |---|---|
-| ![Light Mode](screenshots/light.png) | ![Dark Mode](screenshots/dark.png) |
+| ![Light Mode](screenshots/light.png.png) | ![Dark Mode](screenshots/dark.png.png) |
 
 ---
 
